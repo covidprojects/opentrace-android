@@ -1,4 +1,4 @@
-# OpenTrace Android app
+# OpenTrace Romania Android app
 
 ![alt text](./OpenTrace.png "OpenTrace Logo")
 
